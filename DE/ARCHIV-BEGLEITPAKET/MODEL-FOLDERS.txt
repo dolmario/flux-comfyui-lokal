@@ -1,0 +1,6 @@
+Model file -> destination relative to ComfyUI:
+flux2-dev-Q4_K_M.gguf -> models/unet/
+mistral_3_small_flux2_fp4_mixed.safetensors -> models/text_encoders/
+flux2-vae.safetensors -> models/vae/
+Download separately from SOURCES.txt, inspect each license, keep exact filenames.
+No model weights are included. This uses ROCm/PyTorch, not llama.cpp Vulkan.
