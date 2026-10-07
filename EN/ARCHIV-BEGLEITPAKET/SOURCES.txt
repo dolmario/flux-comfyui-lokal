@@ -1,0 +1,11 @@
+Primary sources checked 05.10.2026.
+AMD installation and driver matrix (ROCm 7.2.1 baseline):
+https://rocm.docs.amd.com/projects/radeon-ryzen/en/latest/docs/install/installryz/windows/install-pytorch.html
+https://rocm.docs.amd.com/projects/radeon-ryzen/en/latest/docs/compatibility/compatibilityryz/windows/windows_compatibility.html
+ComfyUI manual installation and workflow:
+https://docs.comfy.org/installation/manual_install
+https://github.com/Comfy-Org/ComfyUI
+https://github.com/city96/ComfyUI-GGUF
+Model files and separate license terms:
+https://huggingface.co/city96/FLUX.2-dev-gguf
+https://huggingface.co/Comfy-Org/flux2-dev/tree/main/split_files
