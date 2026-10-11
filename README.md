@@ -1,20 +1,21 @@
-# DOLMARIO AI — flux-comfyui-lokal
+# FLUX.2 on AMD: your first local portrait
 
-FLUX mit ComfyUI: vom vorhandenen Workflow zum eigenen Bild. / FLUX with ComfyUI: from the supplied workflow to your own image.
+Create a portrait or brass still life with the actual recorded1024×1024FLUX.2 graph. The new route computes text and images in separate processes, with a fresh pinned source installer for your existing AMD Python environment.
 
-| Sprache / Language | Anleitung / Guide | Download |
-|---|---|---|
-| Deutsch | [Start](DE/START.md) | [BEGLEITPAKET-DE.zip](BEGLEITPAKET-DE.zip) |
-| English | [Start](EN/START.md) | [BEGLEITPAKET-EN.zip](BEGLEITPAKET-EN.zip) |
+- [Start with the English guide](PRACTICE-FIRST-PORTRAIT/README.md)
+- [Download the complete practice kit](downloads/FIRST-PORTRAIT-KIT.zip)
+- [Execution record](PRACTICE-FIRST-PORTRAIT/VALIDATION.json)
+- [Download checksum](downloads/FIRST-PORTRAIT-KIT.sha256)
 
-ZIP vollständig entpacken, dann START.md lesen. / Extract the complete ZIP, then read START.md.
+The download contains native UI/API graphs, Python installer and runner, pinned model links/checksums, original result PNGs and saved conditioning. Model weights and a driver are separate. Recorded on64GB Strix Halo Windows; exact software versions are in the guide. Source installation reuses the existing ROCm-enabled Python environment.
 
-Der reale UI-Graph und die erhaltenen Archivdateien zeigen Nodes, Modelle und Parameter. Die Anleitung unterscheidet den dokumentierten Strix-Halo-Archivversuch von einer noch selbst zu prüfenden neuen Installation. Keine generische Freigabe für andere AMD-Geräte oder Mac.
+## Deutsch
 
-The actual UI graph and preserved archive files show nodes, models and parameters. The guide separates the historical Strix Halo result from a new installation you need to verify. No blanket approval for other AMD hardware or Mac.
+Erzeuge ein Portrait oder Messing-Stillleben mit dem tatsächlich aufgenommenen FLUX.2-Graphen. Text und Bild laufen in getrennten Prozessen. Der Sourceinstaller richtet neue, festgelegte ComfyUI-/GGUF-Quellen ein und verwendet deine vorhandene AMD-Python-Umgebung. Graphen, PNGs, gespeichertes Conditioning, Anleitung und Prüfsummen liegen im neuen Praxisdownload.
 
-Neue Filme mit MOSS-s44, eigener fiktiver Moderatorin und DOLMARIO-AI-Lama sind in Produktion; noch kein vollständiges Endhören behauptet. Originalfilme bleiben erhalten.
+## Earlier bilingual downloads
 
-New films with MOSS-s44, our fictional presenter and DOLMARIO-AI-llama are in production; complete listening is not claimed. Original films remain preserved.
+The original [English](EN/START.md) and [German](DE/START.md) guides and their downloads remain available. Their archived measurements are separate from the new practice record.
 
-[SHA256-Prüfsummen / checksums](SHA256SUMS.txt). Keine Modellgewichte im Download; Bedingungen externer Software und Modelle gelten separat. No model weights included; third-party software/model terms remain separate.
+Advertisement / affiliate link: I may earn a commission through this link.
+https://de.gmktec.com/?ref=DolmarioAi

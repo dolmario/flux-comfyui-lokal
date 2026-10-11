@@ -1,0 +1,50 @@
+{
+  "38": {
+    "class_type": "CLIPLoader",
+    "inputs": {
+      "clip_name": "mistral_3_small_flux2_fp4_mixed.safetensors",
+      "type": "flux2",
+      "device": "default"
+    }
+  },
+  "6": {
+    "class_type": "CLIPTextEncode",
+    "inputs": {
+      "clip": [
+        "38",
+        0
+      ],
+      "text": "A cinematic close-up photograph of a weathered brass compass resting on a folded nautical chart on a dark wooden desk, warm morning sunlight through a window, finely detailed engraved metal, realistic glass reflections, soft shadows, shallow depth of field, elegant travel still life, no logos."
+    }
+  },
+  "100": {
+    "class_type": "SaveConditioning",
+    "inputs": {
+      "conditioning": [
+        "6",
+        0
+      ],
+      "filename_prefix": "conditioning/flux2-compass"
+    }
+  },
+  "7": {
+    "class_type": "CLIPTextEncode",
+    "inputs": {
+      "clip": [
+        "38",
+        0
+      ],
+      "text": "An elegant cinematic close-up portrait of a fictional adult woman aged thirty, wearing a high-neck emerald velvet baroque dress and delicate gold earrings, face and eyes in the centre, warm golden window light, softly lit ornate library background, realistic skin texture, calm confident expression, luxurious editorial photography, fully clothed, tasteful glamour."
+    }
+  },
+  "101": {
+    "class_type": "SaveConditioning",
+    "inputs": {
+      "conditioning": [
+        "7",
+        0
+      ],
+      "filename_prefix": "conditioning/flux2-portrait"
+    }
+  }
+}

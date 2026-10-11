@@ -1,0 +1,9 @@
+example_models:
+  base_path: C:/Models/FLUX2
+  unet: unet
+  diffusion_models: unet
+  text_encoders: text_encoders
+  vae: vae
+own_text:
+  base_path: C:/AI/FLUX2/manual-run
+  embeddings: embeddings

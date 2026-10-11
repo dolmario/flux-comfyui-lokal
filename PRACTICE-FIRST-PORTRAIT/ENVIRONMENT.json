@@ -1,0 +1,18 @@
+{
+  "source_commits": {
+    "comfyui": "387f98aa2822f684b8597959a52a467d88cc4806",
+    "gguf": "6ea2651e7df66d7585f6ffee804b20e92fb38b8a"
+  },
+  "source_clone": "New separate checkout from existing pinned local Git repositories",
+  "existing_python_environment": "C:\\Users\\JT\\Desktop\\comfy\\venv-qwen\\Scripts\\python.exe",
+  "packages": {
+    "torch": "2.9.1+rocm7.2.1",
+    "gguf": "0.19.0",
+    "comfyui-frontend-package": "1.53.10",
+    "comfy-kitchen": "0.2.36",
+    "transformers": "5.17.0",
+    "safetensors": "0.8.0"
+  },
+  "fresh_driver_install": false,
+  "fresh_torch_install": false
+}

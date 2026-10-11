@@ -1,0 +1,129 @@
+{
+  "files": [
+    {
+      "path": "00-TEXT.api.json",
+      "bytes": 1545,
+      "sha256": "538f24741f76bdcc03ecad5b02a288ed106b7fbdb4b9d33ec3fe30e3dbc93f70"
+    },
+    {
+      "path": "00-TEXT.json",
+      "bytes": 4673,
+      "sha256": "be81ed18878287c215fa94713b2a8d4312c652b1868b54efd44431d2ceaf8cd3"
+    },
+    {
+      "path": "comfy_runner.py",
+      "bytes": 6977,
+      "sha256": "b2f27faf95f11bf258240de8c842392e38044a4cebbc7c85f4ac66842e8e954d"
+    },
+    {
+      "path": "download_models.py",
+      "bytes": 2122,
+      "sha256": "09e87b0b8740dd116ec16b0637ab3398f7d6e735952cd39aec62048bbaeeb621"
+    },
+    {
+      "path": "ENVIRONMENT.json",
+      "bytes": 618,
+      "sha256": "f9838e287097780bb80a6be1445c9c2e0317a6f9b8fdc45263840010baf07827"
+    },
+    {
+      "path": "example/COMPASS.png",
+      "bytes": 1456215,
+      "sha256": "4468c5f8ff83c1043a31e8d6768a413568b0ee6d8e50cf19c0c6dbcee8b26023"
+    },
+    {
+      "path": "example/conditioning/flux2-compass.safetensors",
+      "bytes": 5530528,
+      "sha256": "b5af6ae57f46e3ba20b47cb5de3f89140b97c106bf678b5e0059f75485570adb"
+    },
+    {
+      "path": "example/conditioning/flux2-portrait.safetensors",
+      "bytes": 6452248,
+      "sha256": "a76c12ff8303699e35f858f3680d6e0426a2e99f97a87e0058e35cef5273cf09"
+    },
+    {
+      "path": "example/FAILED-COMBINED-ATTEMPT.json",
+      "bytes": 173,
+      "sha256": "e72bbd47292b3abd8c59e04d10d83a7eb172cebcab4ccde1f37610af1da82f3f"
+    },
+    {
+      "path": "example/NATIVE-COMPASS-HISTORY.json",
+      "bytes": 19530,
+      "sha256": "3fba34b1ca3a789db64bdc9e6bdffdd432977e4500ef0d4f1e0d3df45f905ef9"
+    },
+    {
+      "path": "example/NATIVE-PORTRAIT-HISTORY.json",
+      "bytes": 19534,
+      "sha256": "827ca8746b27abe1df4b2a75a7701633530de605bdf71a34d80c8e640e1cf86f"
+    },
+    {
+      "path": "example/NATIVE-TEXT-HISTORY.json",
+      "bytes": 11079,
+      "sha256": "f8f8108529e59c817a8112ce46575af0edd883ade3a828fc2c9b335ca1555ac5"
+    },
+    {
+      "path": "example/PORTRAIT.png",
+      "bytes": 1492296,
+      "sha256": "35a4812046c6447b2b5f19d084fb4da33494186b8bd49e07ee9268e2f24ef860"
+    },
+    {
+      "path": "FLUX2-FIRST-IMAGE.api.json",
+      "bytes": 1963,
+      "sha256": "efdd4e87de06a152efd2e3a3ca02a66289a720376d42d6f7e69f8f994e5b2767"
+    },
+    {
+      "path": "FLUX2-FIRST-IMAGE.json",
+      "bytes": 9450,
+      "sha256": "ebe8511b7500637bcda3eceab2c4256837d95ff6efc8996d877d4f93c7ab8586"
+    },
+    {
+      "path": "FLUX2-PORTRAIT.api.json",
+      "bytes": 1961,
+      "sha256": "0b943706f3fcde7d4b6cdf2250c28276bfe08fedd2134c3edfe4bb0baf15ed17"
+    },
+    {
+      "path": "FLUX2-PORTRAIT.json",
+      "bytes": 9449,
+      "sha256": "95a9bd426b78c5b157264ad9bdcc58e8bdb842cc79d5a39df0ef9e6ccb1fa193"
+    },
+    {
+      "path": "install_sources.py",
+      "bytes": 3055,
+      "sha256": "84e258a51cce01688cbd761b3b86c07ffea1d69e17f2b5a0639e85b6ac8f6611"
+    },
+    {
+      "path": "model-paths.example.yaml",
+      "bytes": 196,
+      "sha256": "bd8097ab9f5d22667042175fee1127157c9170767695c90356af59be6865ed92"
+    },
+    {
+      "path": "MODELS.json",
+      "bytes": 1356,
+      "sha256": "2a3371f43414feffc2b45c80a123bccd2e00322210f13f6c869c95f2935b2fa9"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4527,
+      "sha256": "8cbe6fa0f2f29ff371a4c27da7790cd0d4a1ddd5f29a9cf6c53e41441c2d9bae"
+    },
+    {
+      "path": "run_image.py",
+      "bytes": 4610,
+      "sha256": "16665a4e73c5b880069be37f318accaa0f1c7f41d6cccd328cfcb8904ece15b9"
+    },
+    {
+      "path": "SOURCES.json",
+      "bytes": 754,
+      "sha256": "ee959aa9ea6872a3af4f7d06865222d8f46a9f72c1f19427023154acf6b825b5"
+    },
+    {
+      "path": "START-MANUAL.md",
+      "bytes": 3021,
+      "sha256": "ca2d9a73470275ce0510851eaf6b5409d9415efb31278ef8f1df40bf5babdf91"
+    },
+    {
+      "path": "VALIDATION.json",
+      "bytes": 2289,
+      "sha256": "a03072810703afc9568af1c935c4988384956c2aba644b7784c24dcf225d6e9a"
+    }
+  ]
+}
