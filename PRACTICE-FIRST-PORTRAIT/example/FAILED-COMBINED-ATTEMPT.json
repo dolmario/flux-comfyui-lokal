@@ -1,0 +1,5 @@
+{
+  "status": "stopped_by_own_ram_guard",
+  "minimum_available_windows_ram_gib": 0.00206756591796875,
+  "new_route": "Text encoder released before image model loads"
+}

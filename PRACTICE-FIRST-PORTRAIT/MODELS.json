@@ -1,0 +1,28 @@
+{
+  "models": [
+    {
+      "path": "unet/flux2-dev-Q4_K_M.gguf",
+      "bytes": 20082414560,
+      "sha256": "fca680c7b221a713b5cf7db6cf6b33474875320ee61f4c585bc33fe391dab9a6",
+      "repository": "city96/FLUX.2-dev-gguf",
+      "revision": "ade5d688ddab0d9cf4a5b01bf4321e01c115020d",
+      "url": "https://huggingface.co/city96/FLUX.2-dev-gguf/resolve/ade5d688ddab0d9cf4a5b01bf4321e01c115020d/flux2-dev-Q4_K_M.gguf"
+    },
+    {
+      "path": "text_encoders/mistral_3_small_flux2_fp4_mixed.safetensors",
+      "bytes": 12275678071,
+      "sha256": "1ee1ff334d78228d73049ef0ee4fcd21c1700536b5a45c06547af057f92463a7",
+      "repository": "Comfy-Org/flux2-dev",
+      "revision": "ed33133cd56476eac818c0943b6f9419b3e4a3a1",
+      "url": "https://huggingface.co/Comfy-Org/flux2-dev/resolve/ed33133cd56476eac818c0943b6f9419b3e4a3a1/split_files/text_encoders/mistral_3_small_flux2_fp4_mixed.safetensors"
+    },
+    {
+      "path": "vae/flux2-vae.safetensors",
+      "bytes": 336213556,
+      "sha256": "d64f3a68e1cc4f9f4e29b6e0da38a0204fe9a49f2d4053f0ec1fa1ca02f9c4b5",
+      "repository": "Comfy-Org/flux2-dev",
+      "revision": "ed33133cd56476eac818c0943b6f9419b3e4a3a1",
+      "url": "https://huggingface.co/Comfy-Org/flux2-dev/resolve/ed33133cd56476eac818c0943b6f9419b3e4a3a1/split_files/vae/flux2-vae.safetensors"
+    }
+  ]
+}

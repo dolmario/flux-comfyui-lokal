@@ -1,0 +1,27 @@
+{
+  "created": "2026-10-11T04:52:37.158077+02:00",
+  "native_text_and_both_image_runs_completed": true,
+  "new_text_conditioning": true,
+  "new_image_sampling": true,
+  "native_run_clicked": true,
+  "seconds": {
+    "TEXT": 24.562999999994645,
+    "PORTRAIT": 407.0939999999973,
+    "COMPASS": 406.6570000000065
+  },
+  "minimum_available_windows_ram_gib": {
+    "TEXT": 6.6628570556640625,
+    "PORTRAIT": 0.5401725769042969,
+    "COMPASS": 0.07915496826171875
+  },
+  "source_installer_executed": true,
+  "existing_amd_python_environment": true,
+  "fresh_driver_install": false,
+  "fresh_torch_install": false,
+  "native_model_files_full_sha_verified": true,
+  "combined_attempt_stopped_by_own_ram_guard": true,
+  "final_route": "Separate GPU-only text and image processes; disable dynamic VRAM and pinned memory",
+  "native_browser_portrait_download_sha_matches": true,
+  "downloaded_public_installer_and_runner_execution_pending": true,
+  "full_human_listening": false
+}

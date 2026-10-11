@@ -1,0 +1,20 @@
+{
+  "sources": [
+    {
+      "name": "ComfyUI",
+      "repository": "Comfy-Org/ComfyUI",
+      "commit": "387f98aa2822f684b8597959a52a467d88cc4806",
+      "url": "https://github.com/Comfy-Org/ComfyUI/archive/387f98aa2822f684b8597959a52a467d88cc4806.zip",
+      "sha256": "bf472e6ab1996991647654fac80c088879a5f5c9d52874a12dc99ddf25b629b3",
+      "bytes": 13176372
+    },
+    {
+      "name": "ComfyUI-GGUF",
+      "repository": "city96/ComfyUI-GGUF",
+      "commit": "6ea2651e7df66d7585f6ffee804b20e92fb38b8a",
+      "url": "https://github.com/city96/ComfyUI-GGUF/archive/6ea2651e7df66d7585f6ffee804b20e92fb38b8a.zip",
+      "sha256": "aad273a0b774684285b4496f6edff7e2293bd29d71ef89926d6861bfdf4947ac",
+      "bytes": 38051
+    }
+  ]
+}
