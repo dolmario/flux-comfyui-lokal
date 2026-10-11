@@ -91,14 +91,19 @@
       "sha256": "84e258a51cce01688cbd761b3b86c07ffea1d69e17f2b5a0639e85b6ac8f6611"
     },
     {
+      "path": "model-paths.example.yaml",
+      "bytes": 196,
+      "sha256": "bd8097ab9f5d22667042175fee1127157c9170767695c90356af59be6865ed92"
+    },
+    {
       "path": "MODELS.json",
       "bytes": 1356,
       "sha256": "2a3371f43414feffc2b45c80a123bccd2e00322210f13f6c869c95f2935b2fa9"
     },
     {
       "path": "README.md",
-      "bytes": 4457,
-      "sha256": "d7f40899f97feaf5395fba1e0bc754c6750cdcefa3defdc5796c4ffbb4decf88"
+      "bytes": 4527,
+      "sha256": "8cbe6fa0f2f29ff371a4c27da7790cd0d4a1ddd5f29a9cf6c53e41441c2d9bae"
     },
     {
       "path": "run_image.py",
@@ -111,9 +116,14 @@
       "sha256": "ee959aa9ea6872a3af4f7d06865222d8f46a9f72c1f19427023154acf6b825b5"
     },
     {
+      "path": "START-MANUAL.md",
+      "bytes": 3021,
+      "sha256": "ca2d9a73470275ce0510851eaf6b5409d9415efb31278ef8f1df40bf5babdf91"
+    },
+    {
       "path": "VALIDATION.json",
       "bytes": 2289,
-      "sha256": "4ca91fc001d9013eab3ea1ecbc5390f8c7cbf473ca230f7362301e5d9fba650d"
+      "sha256": "a03072810703afc9568af1c935c4988384956c2aba644b7784c24dcf225d6e9a"
     }
   ]
 }

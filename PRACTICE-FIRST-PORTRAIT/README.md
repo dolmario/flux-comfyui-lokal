@@ -40,6 +40,8 @@ The runner verifies all three complete model files, computes new prompt conditio
 
 ## Work with the actual native graphs
 
+[Manual startup commands and exact native steps](START-MANUAL.md).
+
 The runner writes the local address to the stage log. Open it in a browser and import the corresponding graph. `00-TEXT.json` shows the encoder, both prompts and Save Conditioning outputs. The image graphs show the saved conditioning, GGUF model, Guidance4, matching1024×1024fields,20Euler steps, fixed seed, VAE and Save Image.
 
 For manual stages, the detailed startup commands and actual exported conditioning files are supplied with the execution record. Change the words in the text stage, run that stage again, then choose its new saved conditioning in the image stage. Changing a source prompt without computing its conditioning does not change the generated picture.
